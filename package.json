@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/vishnuroshan/sowmya-json-resume/issues"
   },
-  "homepage": "https://github.com/vishnuroshan/sowmya-json-resume#readme"
+  "homepage": "https://github.com/vishnuroshan/sowmya-json-resume#readme",
+  "dependencies": {
+    "jsonresume-theme-even": "^0.10.4"
+  }
 }
