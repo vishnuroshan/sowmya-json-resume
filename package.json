@@ -1,0 +1,24 @@
+{
+  "name": "sowmya-json-resume",
+  "version": "1.0.0",
+  "description": "sowmya json resume.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnuroshan/sowmya-json-resume.git"
+  },
+  "keywords": [
+    "resume",
+    "jsonresume",
+    "kissmyresume"
+  ],
+  "author": "vishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnuroshan/sowmya-json-resume/issues"
+  },
+  "homepage": "https://github.com/vishnuroshan/sowmya-json-resume#readme"
+}

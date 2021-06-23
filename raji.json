@@ -1,0 +1,199 @@
+{
+    "meta": {
+        "theme": "spartan"
+    },
+    "basics": {
+        "name": "Rajalakshmi Venkatramani",
+        "label": "Senior Executive Human Resources",
+        "email": "raji.sowmi17@gmail.com",
+        "phone": "+91 944-316-3416",
+        "summary": "Experienced Human Resource skilled in Recruitment, Administration, Performance Management & Payroll.\nGoals: Want to work in an organization where I get opportunity to groom & nurture myself. I want to work in an organization by integrating my goals with the organizational goal by using win - win strategy\nSpecialties: Strong in communication, good in interpersonal relationship and overall knowledge in HR \n",
+        "location": {
+            "countryCode": "IN",
+            "address": "Tamil Nadu, India"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "Rajalakshmi Venkatramani",
+                "url": "https://www.linkedin.com/in/rajalakshmi-venkatramani/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Inuson Private Limited",
+            "highlights": [],
+            "position": "Senior Executive Human Resources",
+            "startDate": "2018-11-30",
+            "summary": "Handling Recruitment, New Joinee Formalities Tasks, Employee Confirmation Tasks, Training Tasks, Leave Maintenance, Payroll, Attendance, Grievance Handling, Performance appraisal, Employee Communication & Exit formalities",
+            "website": "https://www.linkedin.com/company/28153219"
+        },
+        {
+            "company": "Inuson Private Limited",
+            "endDate": "2018-11-30",
+            "highlights": [],
+            "position": "Team Lead - Sourcing / Recruitment / MRE",
+            "startDate": "2017-11-30",
+            "summary": "Sourcing and Recruiting for  IT and Non IT requirements in US Market. \nGet potential candidates based on client's requirements.\nInteracting with potential candidates on social media and professional networks \nStrong experience in handling Job Portals (Eg., Monster, Dice & Career Builder)\nStrong experience in handling passive job portals (Eg., LinkedIn, Indeed, etc.,)\nHaving knowledge in Lead generation",
+            "website": "https://www.linkedin.com/company/28153219"
+        },
+        {
+            "company": "Tenpath",
+            "endDate": "2017-10-31",
+            "highlights": [],
+            "position": "HR Associate - Subject Matter Expert",
+            "startDate": "2016-10-31",
+            "summary": "Handling a team which includes 5-6 members\nHandling IT and Non IT requirements in US Market. \nGet potential candidates based on client's requirements.\nStrong experience in handling Job Portals (Eg., Monster, Dice & Career Builder)\nStrong experience in handling passive job portals (Eg., LinkedIn, Indeed, etc.,)\nMaintain qualitative team work\nClient Coversion.",
+            "website": "https://www.linkedin.com/company/3806681"
+        },
+        {
+            "company": "Tenpath",
+            "endDate": "2016-10-31",
+            "highlights": [],
+            "position": "HR Associate - Technical Sourcer",
+            "startDate": "2012-04-30",
+            "summary": "Handling IT and Non IT requirements in US Market. \nGet potential candidates based on client's requirements.\nStrong experience in handling Job Portals (Eg., Monster, Dice & Career Builder)\nStrong experience in handling passive job portals (Eg., LinkedIn, Indeed, etc.,)",
+            "website": "http://tenpath.com/"
+        },
+        {
+            "company": "Lifetime Careers",
+            "endDate": "2012-03-31",
+            "highlights": [],
+            "position": "HR Recruiter",
+            "startDate": "2011-09-30",
+            "summary": "Sourcing profiles from different job portals (Monster, Dice, Times job, LinkedIn & Reference), Screening the suitable profiles, Shortlisting the exact matches, Client Submissions, Interact with clients. Recruiting candidates for top IT MNCs in India",
+            "website": "https://www.linkedin.com/company/8311795"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "KHS",
+            "position": "President - AIDS awareness club",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Attended various AIDS awaremess camps aadudurai and throughout tamil nadu and organised a awaremess camp in thanjavur",
+            "highlights": [
+                "Promoted as president in our school"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Bharathidasan University, Tiruchirappalli, India",
+            "area": "Human Resources Management ",
+            "studyType": "MHRM",
+            "startDate": "2009-12-31",
+            "endDate": "2011-12-31",
+            "gpa": "7",
+            "courses": [
+                "Organizational Developement",
+                "Quality assurance management",
+                "personnel management",
+                "fundamentals of computer applications"
+            ]
+        },
+        {
+            "institution": "Bharath College of Science & Management, South Garden, Thanjavur - 613 007, India",
+            "area": "Business/Commerce, General",
+            "studyType": "Bachelor of Commerce - BCom",
+            "startDate": "2006-12-31",
+            "endDate": "2009-12-31",
+            "gpa": "7",
+            "courses": [
+                "computer programming fundamentals"
+            ]
+        },
+        {
+            "institution": "Kalyana Sundaram Higher Secondary School, Thanjavur, India",
+            "area": "Business Maths/ Commerce",
+            "studyType": "Higher Secodary",
+            "startDate": "2004-12-31",
+            "endDate": "2006-12-31",
+            "gpa": "9",
+            "courses": []
+        }
+    ],
+    "awards": [
+        {
+            "title": "Genral Proficiency in Mathamatics",
+            "date": "2007-04-15",
+            "awarder": "Bharath College",
+            "summary": "Secured first rank in mathamatics"
+        }
+    ],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Recruiting",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "attendance management and Payroll",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Administration",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Grievance Handling",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Training",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Various Job Portals",
+            "level": "",
+            "keywords": [
+                "naukri",
+                "monster.com",
+                "timesjob",
+                "indeed",
+                "linkedin"
+            ]
+        },
+        {
+            "name": "Data analytics",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "People management",
+            "level": "",
+            "keywords": []
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Professional Speaker"
+        },
+        {
+            "language": "Tamil",
+            "fluency": "Native Speaker"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "intermediate"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing and Dancing",
+            "keywords": []
+        },
+        {
+            "name": "Arts and Crafts",
+            "keywords": []
+        }
+    ],
+    "references": []
+}

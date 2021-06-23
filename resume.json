@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Rajalakshmi Venkatramani",
+    "label": "Senior Executive Human Resources",
+    "email": "raji.sowmi17@gmail.com",
+    "phone": "+91 944-316-3416",
+    "summary": "Over 10 years of progressive industry experience. Experience in managing a wide spectrum of HR activities encompassing Talent Acquisition, Induction, Employee Engagement Activity & Vendor Management.",
+    "location": {
+      "countryCode": "IN",
+      "address": "Tamil Nadu, India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Rajalakshmi Venkatramani",
+        "url": "https://www.linkedin.com/in/rajalakshmi-venkatramani/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Inuson Private Limited",
+      "highlights": [],
+      "position": "Senior Executive Human Resources",
+      "startDate": "2018-11-30",
+      "summary": "Handling recruitment and new employee confirmation, induction and training. Handling leave maintenance, payroll, attendance and grievance handling. Handling performance appraisal, employee communication & exit formalities",
+      "website": "https://www.linkedin.com/company/28153219"
+    },
+    {
+      "company": "Inuson Private Limited",
+      "endDate": "2018-11-30",
+      "highlights": [],
+      "position": "Team Lead - Sourcing / Recruitment / MRE",
+      "startDate": "2017-11-30",
+      "summary": "Sourcing and recruiting for IT and Non IT requirements in US Market",
+      "website": "https://www.linkedin.com/company/28153219"
+    },
+    {
+      "company": "Tenpath",
+      "endDate": "2017-10-31",
+      "highlights": [],
+      "position": "HR Associate - Subject Matter Expert",
+      "startDate": "2016-10-31",
+      "summary": "Handling a team which includes 5-6 members, IT and non IT requirements in US Market. Getting potential candidates based on client's requirements.",
+      "website": "https://www.linkedin.com/company/3806681"
+    },
+    {
+      "company": "Tenpath",
+      "endDate": "2016-10-31",
+      "highlights": [],
+      "position": "HR Associate - Technical Sourcer",
+      "startDate": "2012-04-30",
+      "website": "http://tenpath.com/"
+    },
+    {
+      "company": "Lifetime Careers",
+      "endDate": "2012-03-31",
+      "highlights": [],
+      "position": "HR Recruiter",
+      "startDate": "2011-09-30",
+      "website": "https://www.linkedin.com/company/8311795"
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Bharathidasan University",
+      "area": "Human Resources Management",
+      "studyType": "MHRM",
+      "startDate": "2009-12-31",
+      "endDate": "2011-12-31",
+      "gpa": "7",
+      "courses": [
+        "Organizational Developement",
+        "personnel management"
+      ]
+    },
+    {
+      "institution": "Bharath College of Science & Management",
+      "area": "Business/Commerce, General",
+      "studyType": "Bachelor of Commerce - BCom",
+      "startDate": "2006-12-31",
+      "endDate": "2009-12-31",
+      "gpa": "7",
+      "courses": []
+    },
+    {
+      "institution": "Kalyana Sundaram Higher Secondary School",
+      "area": "Business Maths/ Commerce",
+      "studyType": "Higher Secodary",
+      "startDate": "2004-12-31",
+      "endDate": "2006-12-31",
+      "gpa": "9",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Recruiting",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "attendance management and Payroll",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Administration",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Grievance Handling",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Training",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Various Job Portals",
+      "level": "Master",
+      "keywords": [
+        "naukri",
+        "monster.com",
+        "timesjob",
+        "indeed",
+        "linkedin"
+      ]
+    },
+    {
+      "name": "Data analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "People management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Speaker"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Singing and Dancing",
+      "keywords": []
+    },
+    {
+      "name": "Arts and Crafts",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
